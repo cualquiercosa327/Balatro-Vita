@@ -8,12 +8,12 @@ endif()
 
 include("$ENV{VITASDK}/share/vita.cmake" REQUIRED)
 
-project(Mari0)
+project(Balatro)
 
 set(TARGET_NAME ${PROJECT_NAME})
 
-set(VITA_APP_NAME "Mari0")
-set(VITA_TITLEID  "MARI00001")
+set(VITA_APP_NAME "Balatro")
+set(VITA_TITLEID  "Balatr00001")
 set(VITA_VERSION  "01.00")
 set(VITA_MKSFOEX_FLAGS "${VITA_MKSFOEX_FLAGS} -d PARENTAL_LEVEL=1")
 set(VITA_MKSFOEX_FLAGS "${VITA_MKSFOEX_FLAGS} -d ATTRIBUTE2=12")
