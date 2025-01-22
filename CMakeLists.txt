@@ -1,6 +1,7 @@
-cmake_minimum_required(VERSION 3.4.1)
+cmake_minimum_required(VERSION 3.28.1)
 
 if(DEFINED ENV{VITASDK})
+  message(STATUS "Detected VITASDK: $ENV{VITASDK}")
   set(CMAKE_TOOLCHAIN_FILE "$ENV{VITASDK}/share/vita.toolchain.cmake" CACHE PATH "toolchain file")
 else()
   message(FATAL_ERROR "Please define VITASDK to point to your SDK path!")
