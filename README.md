@@ -3,6 +3,7 @@
 ===
 #### YOU HAVE TO LEGALLY OWN A COPY OF BALATRO ON STEAM TO PLAY THIS PORT.
 #### OVERLCLOCKING IS VERY STRONGLY RECOMMENDED.
+#### WE HAVEN'T TRIED ANY CRAZY RUNS AND DON'T KNOW HOW THE VITA HANLDLES IT
 ===
 
 Credits to isage ([Github](https://github.com/isage), [Reddit](https://reddit.com/user/isage_dna)) for the original LÖVE engine port to the Vita used in his [Mari0 port](https://github.com/isage/Mari0-vita) :) 
