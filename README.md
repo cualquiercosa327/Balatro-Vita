@@ -11,9 +11,10 @@ Credits to isage ([Github](https://github.com/isage), [Reddit](https://reddit.co
 Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.reddit.com/user/Skrubaso/)) for helping a lot with actually porting the game.
 
 ## Known issues, currently being worked on:
-- Flame shader not working
+- Audio not working.
+- Flame shader not working.
 - Game runs at around 20fps.
-- Shaders take a long time to compile
+- Shaders take a long time to compile.
 - Touchscreen does not work.
 
 ## Instructions to apply port
