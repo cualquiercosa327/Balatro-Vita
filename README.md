@@ -44,3 +44,6 @@ Credits to Jafeth ([Github](https://github.com/Jafeth12), [Reddit](https://www.r
 - Copy the _game.love_ file to ux0:/data/BALA00001/
 - Enjoy!
 
+**If you want to support the project, you can leave a tip on my Ko-Fi: https://ko-fi.com/daexxx**
+
+
